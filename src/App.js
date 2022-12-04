@@ -2,7 +2,8 @@
 function App() {
   return (
     <div className="App">
-      This is a demo site.
+      This is a Demo site.
+      SASTA STORE.
     </div>
   );
 }
