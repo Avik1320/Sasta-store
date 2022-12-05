@@ -1,9 +1,8 @@
-
+import Home from './Components/Home/Home'
 function App() {
   return (
     <div className="App">
-      This is a Demo site.
-      SASTA STORE.
+      <Home/>
     </div>
   );
 }
